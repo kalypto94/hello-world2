@@ -1,2 +1,2 @@
 # hello-world2
-let's test it
+Hey guys let's try this thingy it seems fun, right?
